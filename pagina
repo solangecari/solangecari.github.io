@@ -1,0 +1,34 @@
+# Odisea - Página de Venta de Ropa
+
+Bienvenido a Odisea, una tienda en línea especializada en la venta de jeans de alta calidad para mujeres y hombres. Este proyecto es una demostración de una página de comercio electrónico simple creada con HTML, CSS y JavaScript.
+
+## Características
+
+- **Catálogo de Productos:** Presenta una variedad de jeans con imágenes, descripciones y precios.
+- **Carrito de Compras:** Permite a los usuarios agregar productos al carrito, eliminar productos y vaciar el carrito.
+- **Interfaz Responsiva:** Adaptada para ser utilizada en dispositivos móviles y de escritorio.
+
+## Tecnologías Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript ES6**
+- **GitHub Pages** para la publicación del sitio.
+
+## Instalación y Uso
+
+1. **Clonar el repositorio:**
+
+    ```bash
+    git clone https://github.com/tu-usuario/tu-repositorio.git
+    ```
+
+2. **Navegar al directorio del proyecto:**
+
+    ```bash
+    cd tu-repositorio
+    ```
+
+3. **Abrir `index.html` en tu navegador:**
+
+    Puedes abrir el archivo directamente desde tu explorador de archivos o usar una extensión de servidor local en tu editor de código, como Live S
